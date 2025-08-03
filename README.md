@@ -5,7 +5,7 @@ This project provides perks and tweaks for people working in Creditor and Cash M
 The newest version is 1.0.0.x 
 -
 
-Detailed version histroy and changelog can be found [her]
+Detailed version histroy and changelog can be found [her](https://github.com/VictorCorell/CCM_D365BC-JPPOL/blob/Page-extension/Changelog.md).
 
 ## Credit and acknowledgments
 This project is created by Victor Corell under employment at JP/Politikens Hus A/S. 
