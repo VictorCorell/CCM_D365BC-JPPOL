@@ -1,0 +1,39 @@
+{
+    "id": "c5a824f9-3c6e-43f2-bc49-187287035658",
+    "name": "CCM_D365BC-JPPOL",
+    "publisher": "Victor Corell - JPPOL D365BC",
+    "version": "1.0.1.0",
+    "brief": "Creditor and Cash Management extension",
+    "description": "This project provides perks and tweaks for people working in Creditor and Cash Management with Dynamics 365 Business Central.",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "https://github.com/VictorCorell/CCM_D365BC-JPPOL",
+    "url": "https://github.com/VictorCorell/CCM_D365BC-JPPOL",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "14340ba6-5934-4145-8e14-dbf1846fef80",
+            "name": "Continia Payment Management",
+            "publisher": "Continia Software",
+            "version": "26.3.1.313645"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "26.3.36158.36193",
+    "idRanges": [
+        {
+            "from": 61000,
+            "to": 61999
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "15.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
