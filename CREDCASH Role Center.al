@@ -1,4 +1,4 @@
-pageextension 61003 "KREDCASH Role Renter" extends "Bookkeeper Role Center"
+pageextension 61003 "CREDCASH Role Renter" extends "Bookkeeper Role Center"
 {
     actions
     {
@@ -15,4 +15,5 @@ pageextension 61003 "KREDCASH Role Renter" extends "Bookkeeper Role Center"
             }
         }
     }
+
 }
