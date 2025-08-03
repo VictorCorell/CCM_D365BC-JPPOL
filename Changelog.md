@@ -1,5 +1,6 @@
 # Changelog
 ## [1.0.1.0] - 03-08-2025
+### Added
 - Project uploaded to GitHub.
 
 ## [1.0.0.7] - 03-08-2025
@@ -19,7 +20,8 @@
 - Set Payment Method Code to '71' when Creditor No. starts with '8' when creating a vendor.
 
 ## [1.0.0.3] - 02-08-2025
-### Changed
+### Added
 - Made 'Payment Terms Code and 'VAT Bus. Posting Group' mandatory when creating a vendor.
 
 - New structure in al. so every page has a al. file.
+
