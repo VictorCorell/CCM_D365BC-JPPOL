@@ -1,4 +1,4 @@
-pageextension 61005 "Vendor card - automation" extends "Vendor Card"
+pageextension 61005 "Vendor card - automate" extends "Vendor Card"
 {
     layout
     {

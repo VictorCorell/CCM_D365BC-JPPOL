@@ -1,18 +1,21 @@
-pageextension 61001 "Vendor Bank Account Card" extends "Vendor Bank Account Card"
+pageextension 61001 "Vendor Bank Account - adding" extends "Vendor Bank Account Card"
 {
     layout
     {
-        modify("Bank Branch No.")
+        // adds payment format to 'vendor bank account'
+        addafter("Country/Region Code")
         {
-            ShowMandatory = rec."Country/Region Code" = 'DK';
-        }
-        modify("Bank Account No.")
-        {
-            ShowMandatory = (rec."Country/Region Code" = 'US') or (rec."Country/Region Code" = 'DK');
-        }
-        modify("SWIFT Code")
-        {
-            ShowMandatory = rec."Country/Region Code" = 'US';
+            field(PaymentFormat; Rec.PaymentFormat)
+            {
+                Caption = 'Payment Format';
+                ToolTip = 'Specifies with payment structure the country uses.';
+                ApplicationArea = all;
+            }
         }
     }
+    // Sets 'BANK' as the standard code for 'Vendor Bank Account Card'
+    trigger OnNewRecord(BelowxRec: Boolean)
+    begin
+        rec.Code := 'BANK';
+    end;
 }

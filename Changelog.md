@@ -1,10 +1,17 @@
 # Changelog
 
+## [1.0.1.2] - 04-08-2025
+### Added
+- New 'Payment Format' field to 'Countries/Regions'.
+- 'Payment Format' added to 'Vendor Bank Account Card'.
+- 'Payment Format' determines which fields are mandatory in the 'Vendor Bank Account Card'.
+ 
 ## [1.0.1.1] - 04-08-2025
 ### Added
 - Unique file indicators to every al. - ex. PE61000 = Pagextension number 61000.
-- New 'Union State' field to 'countries/regions'.
-- 'Union State' field will determine 'Vat Bus. Posting Group* on vendor creation.
+- New 'Union State' field to 'Countries/Regions'.
+- 'Union State' added to vendor page.
+- 'Union State' field will determine 'Vat Bus. Posting Group' on vendor creation.
 
 ## [1.0.1.0] - 03-08-2025
 ### Added

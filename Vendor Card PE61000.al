@@ -16,6 +16,7 @@ pageextension 61000 "Vendor Card - adding" extends "Vendor Card"
             field(UnionState; Rec.UnionState)
             {
                 Caption = 'Union State';
+                ToolTip = 'Specifies what union the country is in.';
                 ApplicationArea = all;
             }
         }
