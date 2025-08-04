@@ -5,6 +5,7 @@
 - New 'Payment Format' field to 'Countries/Regions'.
 - 'Payment Format' added to 'Vendor Bank Account Card'.
 - 'Payment Format' determines which fields are mandatory in the 'Vendor Bank Account Card'.
+- Made 'Payment Method Code' mandatory on vendors.
  
 ## [1.0.1.1] - 04-08-2025
 ### Added
@@ -36,5 +37,6 @@
 ## [1.0.0.3] - 02-08-2025
 ### Added
 - Made 'Payment Terms Code and 'VAT Bus. Posting Group' mandatory when creating a vendor.
+
 
 - New structure in al. so every page has a al. file.
