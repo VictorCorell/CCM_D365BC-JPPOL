@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1.1] - 04-08-2025
+### Added
+- Unique file indicators to every al. - ex. PE61000 = Pagextension number 61000.
+- New 'Union State' field to 'countries/regions'.
+- 'Union State' field will determine 'Vat Bus. Posting Group* on vendor creation.
+
 ## [1.0.1.0] - 03-08-2025
 ### Added
 - Project uploaded to GitHub.
