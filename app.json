@@ -2,7 +2,7 @@
     "id": "c5a824f9-3c6e-43f2-bc49-187287035658",
     "name": "CCM_D365BC-JPPOL",
     "publisher": "Victor Corell - JPPOL",
-    "version": "1.0.1.2",
+    "version": "1.0.1.3",
     "brief": "Creditor and Cash Management extension",
     "description": "This project provides perks and tweaks for people working in Creditor and Cash Management with Dynamics 365 Business Central.",
     "privacyStatement": "",
