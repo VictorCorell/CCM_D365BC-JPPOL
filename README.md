@@ -18,4 +18,4 @@ This project is created by Victor Corell under employment at JP/Politikens Hus A
 [Erik Hougaard](https://www.youtube.com/@Hougaard) has given inspiration to some of the creations.
 
 ## License
-CCM_D365BC JPPOL is [MIT-Licensed](https://github.com/VictorCorell/CCM_D365BC-JPPOL/blob/main/LICENSE).
+CCM_D365BC_JPPOL is [MIT-Licensed](https://github.com/VictorCorell/CCM_D365BC-JPPOL/blob/main/LICENSE).
