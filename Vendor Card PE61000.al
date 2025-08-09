@@ -10,6 +10,10 @@ pageextension 61000 "Vendor Card - adding" extends "Vendor Card"
         {
             ShowMandatory = true;
         }
+        modify("Creditor No.")
+        {
+            Caption = 'FIK/Giro No.';
+        }
         // adds the union state field to the page from the table
         addafter("Country/Region Code")
         {
@@ -21,6 +25,4 @@ pageextension 61000 "Vendor Card - adding" extends "Vendor Card"
             }
         }
     }
-
 }
-
