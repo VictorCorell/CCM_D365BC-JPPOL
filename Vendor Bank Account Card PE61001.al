@@ -12,6 +12,19 @@ pageextension 61001 "Vendor Bank Account - adding" extends "Vendor Bank Account 
                 ApplicationArea = all;
             }
         }
+        modify("Country/Region Code")
+        {
+            ShowMandatory = true;
+        }
+        // adds factbox with document attachment from the vendor
+        addlast(FactBoxes)
+        {
+            part(DocAttachments; "Doc. Attachment List Factbox")
+            {
+                ApplicationArea = All;
+                SubPageLink = "Table ID" = const(DATABASE::Vendor), "No." = field("Vendor No.");
+            }
+        }
     }
     // Sets 'BANK' as the standard code for 'Vendor Bank Account Card'
     trigger OnNewRecord(BelowxRec: Boolean)
