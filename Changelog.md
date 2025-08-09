@@ -1,8 +1,13 @@
 # Changelog
 
+## [1.0.1.6] - 09-08-2025
+## Added
+- 'Creditor no.' changed to 'FIK/Giro No.' on some pages.
+- Document Attachment avalibale on 'Vendor Bank Account Card' with link to 'Vendor No.'.
+
 ## [1.0.1.3 - 05-08-2025
 ### Added
-- Automatic 10 digits bank account in a Danish 'Vendor Bank Account Card.']
+- Automatic 10 digits bank account in a Danish 'Vendor Bank Account Card.'].
 
 ## [1.0.1.2] - 04-08-2025
 ### Added
@@ -42,3 +47,4 @@
 - Made 'Payment Terms Code and 'VAT Bus. Posting Group' mandatory when creating a vendor.
 
 - New structure in al. so every page has a al. file.
+
