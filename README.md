@@ -2,7 +2,7 @@
 This project provides perks and tweaks for people working in Creditor and Cash Management with Dynamics 365 Business Central.
 
 ## Changelog and News
-The newest version is 1.0.1.6
+The newest version is 1.0.1.7
 
 #### Version contruction
 - 0.X.X.X - Production year
