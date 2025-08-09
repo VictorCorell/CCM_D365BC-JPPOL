@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.1.7] - 09-08-2025
+### Added
+- Erased blankzero from 'UnionState' and 'PaymentFormat' in TE61000.
+
 ## [1.0.1.6] - 09-08-2025
 ## Added
 - 'Creditor no.' changed to 'FIK/Giro No.' on some pages.
@@ -45,7 +49,4 @@
 ## [1.0.0.3] - 02-08-2025
 ### Added
 - Made 'Payment Terms Code and 'VAT Bus. Posting Group' mandatory when creating a vendor.
-
 - New structure in al. so every page has a al. file.
-
-
