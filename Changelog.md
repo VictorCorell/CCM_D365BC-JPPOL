@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.1.8] - 31-08-2025
+### Changed
+- Small changes to the app.json.
+
 ## [1.0.1.7] - 09-08-2025
 ### Added
 - Erased blankzero from 'UnionState' and 'PaymentFormat' in TE61000.
@@ -50,3 +54,4 @@
 ### Added
 - Made 'Payment Terms Code and 'VAT Bus. Posting Group' mandatory when creating a vendor.
 - New structure in al. so every page has a al. file.
+
