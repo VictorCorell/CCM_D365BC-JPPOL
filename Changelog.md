@@ -11,7 +11,7 @@
 ## [1.0.1.6] - 09-08-2025
 ## Added
 - 'Creditor no.' changed to 'FIK/Giro No.' on some pages.
-- Document Attachment avalibale on 'Vendor Bank Account Card' with link to 'Vendor No.'.
+- Document Attachment available on 'Vendor Bank Account Card' with link to 'Vendor No.'.
 
 ## [1.0.1.3] - 05-08-2025
 ### Added
@@ -54,4 +54,5 @@
 ### Added
 - Made 'Payment Terms Code and 'VAT Bus. Posting Group' mandatory when creating a vendor.
 - New structure in al. so every page has a al. file.
+
 
